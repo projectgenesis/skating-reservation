@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.romanbrick
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, aws-lambda-custom-runtime, aws-v2-sdk, graalvm, gradle, http-client, java, logback, openapi, readme, shade, spock, yaml]
